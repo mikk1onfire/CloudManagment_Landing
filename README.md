@@ -1,5 +1,5 @@
 # Simple React full responsive landing
-[Visit site]([https://www.google.com](https://cloud-managment-landing.vercel.app/))
+Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
 ![unknown](https://user-images.githubusercontent.com/61505173/171918960-50168753-4695-4a87-9648-74c05aad85bc.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
